@@ -1,0 +1,10 @@
+jupyter
+jupyterlab
+numpy
+pandas
+matplotlib
+folium
+opencv-python
+scipy
+requests
+xlrd
